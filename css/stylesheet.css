@@ -1,12 +1,22 @@
-h1, h2 { 
+h1, 
+h2 { 
     font-family: 'Niramit', sans-serif;
 }
+
+h1 {
+    color: aliceblue;
+}
+
 p { 
     font-family: 'Playfair Display', serif;
 }
+
 body { 
     background-color:#B8860B;
-    }
-div {
     text-align: center;
+    }
+
+div {
+    background-color:rgb(253, 253, 253);
+
 }
